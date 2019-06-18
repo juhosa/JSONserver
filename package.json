@@ -1,0 +1,16 @@
+{
+  "name": "JSONserver",
+  "author": "Juho Salli <juho@jsalli.com>",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "microbundle": "^0.11.0"
+  },
+  "source": "src/index.js",
+  "scripts": {
+    "build": "microbundle",
+    "dev": "microbundle watch"
+  }
+}

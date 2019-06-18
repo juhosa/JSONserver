@@ -1,0 +1,14 @@
+{
+    "endpoints": [
+        {
+            "url": "kek",
+            "method": "GET",
+            "return": "the value to return!"
+        },
+        {
+            "url": "hello",
+            "method": "GET",
+            "return": "Ohai!"
+        }
+    ]
+}
